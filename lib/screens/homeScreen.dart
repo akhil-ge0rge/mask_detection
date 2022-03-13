@@ -97,7 +97,7 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Image.asset('assets/mask.png'),
             ),
             Text(
-              "Mask Detection",
+              "Mask Detector",
               style:
                   GoogleFonts.roboto(fontSize: 20, fontWeight: FontWeight.bold),
             ),
