@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.mask_detection">
    <application
-        android:label="mask_detection"
+        android:label="Mask Detector"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
